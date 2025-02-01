@@ -9,7 +9,7 @@ This project implements a **modular alarm clock system** in **SystemVerilog**. T
  **Part 2** - Extended logic, including date display.  
  **Part 3** - Final integration and testing with LCD output.  
 
-## 🛠️ Features  
+##  Features  
 - **Basic Alarm Clock** – Allows users to set an alarm and triggers when the time matches.  
 - **Day and Week Tracking** – Handles correct modulus operations for days/weeks.  
 - **Seven-Segment Display** – Displays time, day, and month using segmented output.  
